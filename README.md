@@ -11,7 +11,7 @@ Human Computer Interaction implemented using Raspberry Pi
 - [x] Finding Contour and draw Convex Hull
 - [x] Find onvexity Defects to count the number of images
 
-![](https://github.com/aayushi-95/Hand-Gesture-Recognition/blob/master/images/chords.png) ![](https://github.com/aayushi-95/Hand-Gesture-Recognition/blob/master/images/five.png)
+![](https://github.com/aayushi-95/Hand-Gesture-Recognition/blob/master/images/five.png)
 
 _Challenges faced_
 1) Hand Tracking for dynamic gesture
